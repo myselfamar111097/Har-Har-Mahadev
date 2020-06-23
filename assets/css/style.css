@@ -17,7 +17,7 @@ body {
 
 body::before {
   content: "";
-  position: center center;
+  position: absolute;
   background: #040404 url("./../img/bg.JPG") top right no-repeat;
   background-size: cover;
   left: 0;
